@@ -1,4 +1,4 @@
-import { SquareArrowOutDownRight } from "react-icons/lu";
+import { SquareArrowOutDownRight } from "lucide-react";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { navlinks } from "../data/data";
 import { useState } from "react";
