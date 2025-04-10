@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  /* Fonts */
+  --font-body: "Poppins", sans-serif;
+  --font-special: "Josefin Sans", sans-serif;
+/* Light Theme */
+  /* --color-light_bg: #F2EFE7;
+  --color-light_text:  #222222;
+  --color-light_primary: #BBBBBB;
+  --color-light_secondary:#BF9A5E;
+  --color-light_accent:  #A7006A; */
+/* Dark Theme */
+  --color-dark_bg: #000000;
+  --color-dark_text: #fff;
+  --color-dark_primary: #0C1821;
+  --color-dark_secondary: #1B2A41;
+  --color-dark_accent: #5F99E0;
+}
+
+body, html {
+  overflow-x: hidden;
+}
+
+
+
+@media (max-width: 340px) {
+    .hide-hire-button {
+      display: none;
+    }
+  }
+  
