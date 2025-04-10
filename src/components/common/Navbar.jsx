@@ -1,4 +1,4 @@
-import { LuSquareArrowOutDownRight } from "react-icons/lu";
+import { SquareArrowOutDownRight } from "react-icons/lu";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { navlinks } from "../data/data";
 import { useState } from "react";
@@ -54,7 +54,7 @@ function Navbar() {
           className="px-4 py-2 cursor-pointer rounded-full text-xl font-bold  border-yellow-400 border flex items-center gap-1 bg-gradient-to-r from-green-400 to-yellow-600 hover:shadow-[0_0_20px_0_rgba(0,255,156,1)] hover:border-green-500  hover:scale-110 transition-all duration-500 ease-in-out hide-hire-button">
             Hire Me
             <div className="hidden md:block">
-            <LuSquareArrowOutDownRight  /> 
+            <SquareArrowOutDownRight  /> 
             </div>
           </Link>
         </div>
