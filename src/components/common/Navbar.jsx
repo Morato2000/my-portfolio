@@ -42,7 +42,7 @@ function Navbar() {
                     offset={-130}
                     duration={500}
                     className="hover:text-dark_accent  transition-all duration-500"
-                    onClick={closeMenu} // Close the menu on link click
+                    onClick={() => setIsOpen(false)}// Close the menu on link click
                   >
                     {link.text}
                   </Link>
