@@ -13,9 +13,7 @@ import Footer from "./components/common/Footer";
 import { useEffect } from "react";
 function App() {
   useEffect(() => {
-    setTimeout(() => {
-      window.scrollTo(0, 0); // Scroll to top after 100ms
-    }, 100);
+    window.scrollTo(0, 0); // Scroll to the top immediately
   }, []);
   
   return (
