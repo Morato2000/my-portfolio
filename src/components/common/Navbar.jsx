@@ -9,11 +9,6 @@ function Navbar() {
   const toggleMenu = () => {
     setIsOpen(!isOpen);
   };
-
-   // Function to close the menu
-   const closeMenu = () => {
-    setIsOpen(false);
-  };
   return (
     <>
     
