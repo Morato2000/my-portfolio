@@ -15,6 +15,7 @@ import { FaYahoo } from "react-icons/fa";
 // images
 import coming_soon from "../../assets/coming_soon.jpg";
 import project1Img from "../../assets/project1.png";
+import project2Img from "../../assets/project2.png";
 export const navlinks = [
     {
         id: 1,
@@ -64,10 +65,10 @@ export const projects = [
     {
         id: 2,
         align: "right",
-        title: "Project 2",
-        description: "Description of project 2",
-        image: coming_soon,
-        link: "#",
+        title: "LandSnatchers",
+        description: "Real Estate Rentals Website",
+        image: project2Img,
+        link: "https://land-snatchers.vercel.app",
     },
     {
         id: 3,
