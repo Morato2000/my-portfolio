@@ -19,7 +19,7 @@ function AboutMe() {
             About Me
           </h2>
           <p className="text-dark_text">
-            I’m a passionate Web Developer with over 5 years of experience in
+            I’m a passionate Web Developer with years of experience in
             building fast, secure, and dynamic web applications. My expertise
             lies in React, Node.js, and Tailwind CSS, allowing me to create
             modern, responsive, and scalable solutions.

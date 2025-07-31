@@ -37,7 +37,7 @@ function Hero() {
               className="text-lg mt-4 text-white"
             >
               Motivated and diligent Web Developer <br />
-              with over 5 years of experience.
+              with years of experience.
             </motion.p>
             <motion.div
               variants={fadeIn("up", 0.8)}

@@ -28,12 +28,12 @@ function Experience() {
                 Since
               </p>
               <p className="font-bold text-5xl  text-yellow-400">
-                2019 <br className="hidden lg:block" />
+                2024 <br className="hidden lg:block" />
                 <span className="text-gray-600 lg:px-10">-</span>
                 <br className="hidden lg:block" /> {currentDate}
               </p>
               <p className=" text-xl text-white text-center">
-                With over 5 years of hands-on experience,
+                With years of hands-on experience,
                 <br /> I craft sleek, responsive web apps.
               </p>
             </div>
