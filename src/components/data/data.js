@@ -97,8 +97,8 @@ export const contacts = [
     {
         id: 2,
         icon: MdEmail,
-        text: "Sammyif@yahoo.com",
-        link: "mailto:Sammyif@yahoo.com",
+        text: "sammyif@yahoo.com",
+        link: "mailto:sammyif@yahoo.com",
     },
     {
         id: 3,
@@ -123,6 +123,6 @@ export const socials = [
         id: 3,
         icon: FaYahoo,
         text: "Yahoo",
-        link: "mailto:Sammyif@yahoo.com",
+        link: "mailto:sammyif@yahoo.com",
     },
 ];

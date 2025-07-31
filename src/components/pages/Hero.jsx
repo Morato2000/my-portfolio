@@ -46,7 +46,7 @@ function Hero() {
               viewport={{ once: false, amount: 0 }}
             >
               <a
-                href="https://drive.google.com/file/d/1fWyuV4SXIOtLbNoDm0Gv8rEkkGzIqO3l/view?usp=drive_link"
+                href="https://drive.google.com/drive/folders/1nE3p_236ROAp5YJqdmBZknjzevvVZF6o?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block mt-6 px-6 py-3 rounded-full text-black font-bold bg-yellow-400 hover:bg-yellow-500 transition duration-300 cursor-pointer"
